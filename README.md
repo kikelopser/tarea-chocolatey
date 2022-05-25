@@ -4,5 +4,5 @@
 
 # [:one: ¿Qué es chocolatey?](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/explicacion.md) 
 # [:two: Instalación de chocolatey](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/instalacion.md)
-# [:three: Ejemplos de instalación]()
+# [:three: Ejemplos de instalación](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/ejemplos.md)
 # [:four: Referencias]()
