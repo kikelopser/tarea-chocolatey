@@ -7,3 +7,5 @@
 # [:three: Ejemplos de instalación](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/ejemplos.md)
 # [:four: Referencias](https://github.com/kikelopser/tarea-chocolatey/blob/main/Paginas/referencias.md)
 
+-----------------
+:warning:![LICENCIA](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/licencia.png):warning:
