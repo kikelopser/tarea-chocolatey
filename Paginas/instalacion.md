@@ -4,4 +4,4 @@ Para instalar Chocolatey, abra PowerShell desde el menú Inicio. A continuación
 >> Set-ExecutionPolicy Bypass -Scope Process -Force;
 iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
-![Instalar](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/instalar1.jpg)
+![Instalar](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/instalar1.png)
