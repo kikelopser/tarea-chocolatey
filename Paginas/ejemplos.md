@@ -17,3 +17,4 @@ Para instalar Microsoft C++ Visual Studio 2022 usamos el siguiente comando:
 Para instalar Malwarebytes usamos el siguiente comando:
 >> choco install malwarebytes
 
+![Malwarebytes](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/malwarebytes.png)
