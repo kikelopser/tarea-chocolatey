@@ -9,5 +9,11 @@ https://community.chocolatey.org/packages
 ------------------------------------------------------------------------------------------
 Vamos a hacer la prueba instalando ***Microsoft C++ Visual Studio 2022*** y ***Malwarebytes***
 ------------------------------------------------------------------------------------------
-Para instalar C++ usamos el siguiente comando:
+Para instalar Microsoft C++ Visual Studio 2022 usamos el siguiente comando:
 >> choco install vcredist140
+
+![C++](https://github.com/kikelopser/tarea-chocolatey/blob/main/Imagenes/cmasmas.png)
+
+Para instalar Malwarebytes usamos el siguiente comando:
+>> choco install malwarebytes
+
