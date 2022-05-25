@@ -1,6 +1,6 @@
 ![chocolatey-1.png](https://github.com/kikelopser/tarea-chocolatey/blob/main/chocolatey-1.png)
 
-##¿Qué es chocolatey?
+# ¿Qué es chocolatey?
 
 #Instalación de chocolatey.
 
